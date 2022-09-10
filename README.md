@@ -1,2 +1,2 @@
 # Quiz-game
-Game of questions and answers, using modularization and databases for its construction.
+Question and answer game, using a modular structure and databases for its construction.
